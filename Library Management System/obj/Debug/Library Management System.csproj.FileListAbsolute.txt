@@ -1,0 +1,34 @@
+D:\C#\Library Management System\Library Management System\bin\Debug\Library Management System.exe.config
+D:\C#\Library Management System\Library Management System\bin\Debug\Library Management System.exe
+D:\C#\Library Management System\Library Management System\bin\Debug\Library Management System.pdb
+D:\C#\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.AssemblyReference.cache
+D:\C#\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.SuggestedBindingRedirects.cache
+D:\C#\Library Management System\Library Management System\obj\Debug\Library_Management_System.FrmLogin.resources
+D:\C#\Library Management System\Library Management System\obj\Debug\Library_Management_System.Properties.Resources.resources
+D:\C#\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.GenerateResource.cache
+D:\C#\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.CoreCompileInputs.cache
+D:\C#\Library Management System\Library Management System\obj\Debug\Library Management System.exe
+D:\C#\Library Management System\Library Management System\obj\Debug\Library Management System.pdb
+D:\C#\Library Management System\Library Management System\obj\Debug\Library_Management_System.FrmDashboard.resources
+D:\C#\Library Management System\Library Management System\obj\Debug\Library_Management_System.FrmAddBook.resources
+D:\C#\Library Management System\Library Management System\obj\Debug\Library_Management_System.FrmViewBooks.resources
+D:\C#\Library Management System\Library Management System\obj\Debug\Library_Management_System.FrmAddMember.resources
+D:\C#\Library Management System\Library Management System\obj\Debug\Library_Management_System.FrmViewMembers.resources
+D:\C#\Library Management System\Library Management System\bin\Debug\MySqlConnector.dll
+D:\C#\Library Management System\Library Management System\bin\Debug\System.Buffers.dll
+D:\C#\Library Management System\Library Management System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\C#\Library Management System\Library Management System\bin\Debug\System.Memory.dll
+D:\C#\Library Management System\Library Management System\bin\Debug\System.Numerics.Vectors.dll
+D:\C#\Library Management System\Library Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#\Library Management System\Library Management System\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\C#\Library Management System\Library Management System\bin\Debug\MySqlConnector.xml
+D:\C#\Library Management System\Library Management System\bin\Debug\System.Buffers.xml
+D:\C#\Library Management System\Library Management System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\C#\Library Management System\Library Management System\bin\Debug\System.Memory.xml
+D:\C#\Library Management System\Library Management System\bin\Debug\System.Numerics.Vectors.xml
+D:\C#\Library Management System\Library Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C#\Library Management System\Library Management System\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\C#\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.CopyComplete
+D:\C#\Library Management System\Library Management System\obj\Debug\Library_Management_System.FrmReturnBook.resources
+D:\C#\Library Management System\Library Management System\obj\Debug\Library_Management_System.FrmIsssueBook.resources
+D:\C#\Library Management System\Library Management System\obj\Debug\Library_Management_System.FrmRecords.resources
